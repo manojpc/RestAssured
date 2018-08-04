@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3155" started-at="2018-05-26T14:22:58Z" finished-at="2018-05-26T14:23:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3155" started-at="2018-05-26T14:22:58Z" finished-at="2018-05-26T14:23:01Z">
+      <class name="SimpleGetTest">
+        <test-method status="PASS" signature="GetWeatherDetails()[pri:0, instance:SimpleGetTest@51565ec2]" name="GetWeatherDetails" duration-ms="3129" started-at="2018-05-26T14:22:58Z" finished-at="2018-05-26T14:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetWeatherDetails -->
+      </class> <!-- SimpleGetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
